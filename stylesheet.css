@@ -96,6 +96,7 @@ svg { display: block;
 	border-width: 1px;
 	border-color: transparent;
 	border-radius: 15%;
+	box-shadow: inset 0 0 7px #a5dcc7;
 }
 .show { display: none;
 }
