@@ -37,6 +37,8 @@
 					
 					<p>Traffickers are as diverse as their victims. Sharing traits with their victims, such as cultural background or sex, helps traffickers understand the vulnerabilities and gain the trust of their victims. This circumstance becomes even more difficult when the trafficker is an acquaintance or family member.</p>
 					
+					<p>Read the <a href="https://www.whitehouse.gov/presidential-actions/executive-order-combating-human-trafficking-online-child-exploitation-united-states/">Executive Order on Combating Human Trafficking and Online Child Exploitation in the United States</a> issued on <time datetime="2020-01-31">January 31, 2020</time>.</p>
+					
 					<p>As you go through this website, we hope you are able to learn enough to <a href="identify.php">identify</a> the signs of human trafficking and <a href="report.php">report</a> suspected sightings. Please, share this and other <a href="resources.php">resources</a> with your community.</p>
 					
 					<p>If you think you might be a victim of human trafficking, there is always <a href="gethelp.php">HELP</a>.</p>
