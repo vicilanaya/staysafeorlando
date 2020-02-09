@@ -81,7 +81,7 @@
 				</section>
 			
 				<section id="section3">			
-					<p>Download and print an <a href="https://www.dhs.gov/blue-campaign/materials/indicator-card" target="_blank">indicator card</a> from the Blue Campaign.</p>
+					<p>Download and print an <a href="https://www.dhs.gov/blue-campaign/materials/indicator-card" target="_blank">indicator card</a> from the Blue Campaign. Multiple languages are available at the link.</p>
 					
 					<div id="flex-container-cards">
 						<div>
