@@ -24,10 +24,10 @@ body {
 }
 button {
 	background-color: orange;
-	float: right;
 	padding: 2px;
 	margin: 2px;
 }
+	/* float: right; */
 footer { 
 	background-color: #578192;
 	color: white;
@@ -108,8 +108,8 @@ svg { display: block;
 .skiplink { 
 	color: white;
 	font-size: small;
-	float: right;
 	text-decoration: none;
+	float: right;
 	padding: 1px;
 }
 .smalltext { font-size: large;
