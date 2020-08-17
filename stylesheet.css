@@ -22,6 +22,12 @@ body {
 	color: #3a463d;
 	font-size: 3vh;
 }
+button {
+	background-color: orange;
+	float: right;
+	padding: 2px;
+	margin: 2px;
+}
 footer { 
 	background-color: #578192;
 	color: white;

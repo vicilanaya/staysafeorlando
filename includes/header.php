@@ -1,4 +1,9 @@
 		<header>
+			
+			<button type="button" id="exit" alt="emergency quick exit button">
+				<a href="https://www.google.com/"><strong>Quick EXIT</strong></a>
+			</button>
+			
 			<a href="#content" class="skiplink" id="top">Skip to Content</a>
 			
 			<div>
@@ -10,5 +15,6 @@
 			
 				</a>
 			</div>
+			
 		</header>
 		
