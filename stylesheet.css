@@ -114,6 +114,12 @@ svg {
 	border-color: transparent;
 	border-radius: 15%;
 }
+
+#fbivideo {
+    max-width: 99%;
+    margin-left: auto;
+    margin-right: auto;
+}
 .show {
     display: none;
 }

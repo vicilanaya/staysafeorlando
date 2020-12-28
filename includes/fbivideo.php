@@ -1,4 +1,6 @@
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FFBI%2Fvideos%2F287569216027296%2F&show_text=false&width=560" 
+<iframe 
+        id="fbivideo"
+        src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FFBI%2Fvideos%2F287569216027296%2F&show_text=false&width=560" 
         width="560" 
         height="314" 
         style="border:none;overflow:hidden" 
