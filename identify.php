@@ -18,6 +18,8 @@
 			<div id="content">
 				<section id="section1">
 					<h2>How to Identify Human Trafficking</h2>
+                    
+                    <?php include "includes/fbivideo.php"; ?>
 					
 					<p>While it is the job of law enforcement to investigate and determine if human trafficking has occurred, learning about the signs associated with human trafficking can help save lives, especially if you feel confortable <a href="report.php">reporting</a> it. The following are several situations that, when combined, might <a href="https://polarisproject.org/human-trafficking/recognize-signs" target="_blank">signal human trafficking</a>&#58;</p>
 				</section>
